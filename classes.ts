@@ -20,6 +20,6 @@ class Admin extends User {
     }
 }
 
-let user = new Admin('Luan', 'Vieira', 27)
+// let user = new Admin('Luan', 'Vieira', 27)
 
-console.log("🤬 ~ file: classes.ts:14 ~ user:", user.getFullName())
+// console.log("🤬 ~ file: classes.ts:14 ~ user:", user.getFullName())

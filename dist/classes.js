@@ -14,5 +14,5 @@ class Admin extends User {
         return `ADMIN - ${this.firstName} ${this.lastName}`;
     }
 }
-let user = new Admin('Luan', 'Vieira', 27);
-console.log("🤬 ~ file: classes.ts:14 ~ user:", user.getFullName());
+// let user = new Admin('Luan', 'Vieira', 27)
+// console.log("🤬 ~ file: classes.ts:14 ~ user:", user.getFullName())
